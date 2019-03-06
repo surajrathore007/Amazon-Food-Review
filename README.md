@@ -1,13 +1,22 @@
 # Amazon Food Review
 
 
-# Text comparison using 
-## BOW 
-## Bi-Grams and n-Grams  
-## TFIDF 
-## Word2Vec 
-## Avg W2v 
-## TFIDF weighted W2V vectors 
+## Text comparison using 
+
+### BOW 
+![image](https://user-images.githubusercontent.com/29300053/53877782-18c9d880-4030-11e9-82c7-d2a49f48314a.png)
+
+### Bi-Grams and n-Grams  
+![image](https://user-images.githubusercontent.com/29300053/53877850-49117700-4030-11e9-9d2c-93d98e757f88.png)
+
+### TFIDF 
+![image](https://user-images.githubusercontent.com/29300053/53877897-63e3eb80-4030-11e9-9c25-922d9811319b.png)
+
+### Word2Vec
+![image](https://user-images.githubusercontent.com/29300053/53877990-ad343b00-4030-11e9-8a6f-a0ce4dbdf972.png)
+
+### Avg W2v 
+### TFIDF weighted W2V vectors 
 
 
 # TSNE
@@ -26,7 +35,7 @@ scatter plots, histograms & boxplots and make sense of the pattern in data using
 
 ## What does t-SNE actually do ?
 
-It’s quite simple actually, t-SNE a non-linear dimensionality reduction algorithm finds
+Itâ€™s quite simple actually, t-SNE a non-linear dimensionality reduction algorithm finds
 patterns in the data by identifying observed clusters based on similarity of data points 
 with multiple features. But it is not a clustering algorithm it is a dimensionality 
 reduction algorithm. This is because it maps the multi-dimensional data to a lower 
