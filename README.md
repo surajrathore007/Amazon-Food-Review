@@ -3,20 +3,24 @@
 
 ## Text comparison using 
 
-### BOW 
+### 1.BOW 
+
 ![image](https://user-images.githubusercontent.com/29300053/53877782-18c9d880-4030-11e9-82c7-d2a49f48314a.png)
 
-### Bi-Grams and n-Grams  
+### 2.Bi-Grams and n-Grams  
+
 ![image](https://user-images.githubusercontent.com/29300053/53877850-49117700-4030-11e9-9d2c-93d98e757f88.png)
 
-### TFIDF 
+### 3.TFIDF 
+
 ![image](https://user-images.githubusercontent.com/29300053/53877897-63e3eb80-4030-11e9-9c25-922d9811319b.png)
 
-### Word2Vec
+### 4.Word2Vec
+
 ![image](https://user-images.githubusercontent.com/29300053/53877990-ad343b00-4030-11e9-8a6f-a0ce4dbdf972.png)
 
-### Avg W2v 
-### TFIDF weighted W2V vectors 
+### 5.Avg W2v 
+### 6.TFIDF weighted W2V vectors 
 
 
 # TSNE
