@@ -44,5 +44,17 @@ patterns in the data by identifying observed clusters based on similarity of dat
 with multiple features. But it is not a clustering algorithm it is a dimensionality 
 reduction algorithm. This is because it maps the multi-dimensional data to a lower 
 dimensional space, the input features are no longer identifiable.
- Thus you cannot make any inference based only on the output of t-SNE.
+ Thus, you cannot make any inference based only on the output of t-SNE.
+ 
+ ## Details
+ 
+                                 ![image](https://user-images.githubusercontent.com/29300053/54050390-ecc76800-4193-11e9-85f3-b2e6b1fb7020.png)
+
+                                ![image](https://user-images.githubusercontent.com/29300053/54050432-0799dc80-4194-11e9-9c87-1b18edfa38d4.png)
+
+                                ![image](https://user-images.githubusercontent.com/29300053/54050455-16808f00-4194-11e9-91b3-2a78d2c00c37.png)
+
+                                ![image](https://user-images.githubusercontent.com/29300053/54050472-213b2400-4194-11e9-8eba-9379b87f1c45.png)
+
+ 
 
